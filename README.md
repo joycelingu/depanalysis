@@ -1,3 +1,3 @@
-# twitter
+# Depression Detection on Social Media
 
-Analyzes opinions of Twitter users on certain trends and topics using Naive Bayes Classifier
+Aims to predict early signs of depression by analyzing Twitter posts using text mining 
